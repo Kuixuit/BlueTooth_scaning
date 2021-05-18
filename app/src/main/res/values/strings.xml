@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetootScan</string>
+    <string name="title_item_detail">Item detail </string>
+    <string name="wellcome">wellcome </string>
+    <string name="wellcomebut">Enter</string>
+
+</resources>
